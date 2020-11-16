@@ -34,6 +34,7 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # > Tencent
 USER-AGENT,WeChat*
+DOMAIN-SUFFIX,servicewechat.com,DIRECT
 IP-CIDR,182.254.116.0/24,no-resolve
 
 DOMAIN-SUFFIX,12306.cn
