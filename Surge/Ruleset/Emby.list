@@ -2,6 +2,6 @@
 # UPDATE: 2020-12-11
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
-DOMAIN-SUFFIX,emby.wtf,Emby
-DOMAIN-SUFFIX,plusmedia.site,Emby
-DOMAIN-SUFFIX,mickeycloud.com,Emby
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,mickeycloud.com
