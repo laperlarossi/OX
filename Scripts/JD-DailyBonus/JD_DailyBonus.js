@@ -33,7 +33,7 @@ var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账�
 由于cookie的有效性(经测试网页Cookie有效周期最长31天)，如果脚本后续弹出cookie无效的通知，则需要重复上述步骤。 
 签到脚本将在每天的凌晨0:05执行, 您可以修改执行时间。 因部分接口京豆限量领取, 建议调整为凌晨签到。
 
-BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
+BoxJs订阅地址: https://raw.githubusercontent.com/laperlarossi/OX/main/Script/NobyDa_BoxJs.json
 
 *************************
 【 配置双京东账号签到说明 】 : 
