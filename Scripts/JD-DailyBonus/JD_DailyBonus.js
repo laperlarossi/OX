@@ -5,9 +5,7 @@
 更新时间: 2021.01.28 18:40 v1.92
 有效接口: 40+
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
-电报频道: @NobyDa 
-问题反馈: @NobyDa_bot 
-如果转载: 请注明出处
+
 
 *************************
 【 JSbox, Node.js 说明 】 :
