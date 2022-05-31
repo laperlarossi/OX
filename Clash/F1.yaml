@@ -1,3 +1,5 @@
+payload:
+  # > F1
 DOMAIN-KEYWORD,formula1
 DOMAIN-SUFFIX,formula1.com
 DOMAIN,mobile-collector.newrelic.com
