@@ -2,3 +2,7 @@
 # UPDATE: 2020-12-11
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,stream4.misakaf.org
