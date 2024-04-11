@@ -5,4 +5,5 @@
 DOMAIN-SUFFIX,stream1.misakaf.org,Emby
 DOMAIN-SUFFIX,stream2.misakaf.org,Emby
 DOMAIN-SUFFIX,stream3.misakaf.org,Emby
-DOMAIN-SUFFIX,stream4.misakaf.org,Emby
+DOMAIN-SUFFIX,emby.misakaf.org,Emby
+DOMAIN-SUFFIX,789.123456.al,Emby
