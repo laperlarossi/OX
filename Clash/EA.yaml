@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,chillingo.com
   - DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,cncrivals.com
+  - DOMAIN-SUFFIX,codemasters.com
   - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,conquerwithcharacter.com
   - DOMAIN-SUFFIX,crysis.jp
