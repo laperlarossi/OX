@@ -1,1688 +1,1688 @@
 {
     "name": "Surge Policy icon",
     "icons": [
-      {"name":"115", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/115.png"},
-      {"name":"AdBlock", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/AdBlock.png"},
-      {"name":"Adblock01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Adblock01.png"},
-      {"name":"AdBlock02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/AdBlock02.png"},
-      {"name":"AdWhite", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/AdWhite.png"},
-      {"name":"airport", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/airport.png"},
-      {"name":"Airport02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Airport02.png"},
-      {"name":"amazon", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/amazon.png"},
-      {"name":"amazon01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/amazon01.png"},
-      {"name":"amazon02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/amazon02.png"},
-      {"name":"apple", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/apple.png"},
-      {"name":"Apple_Fitness", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Apple_Fitness.png"},
-      {"name":"Apple_Mail", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Apple_Mail.png"},
-      {"name":"apple02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/apple02.png"},
-      {"name":"applenews", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/applenews.png"},
-      {"name":"apple-news01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/apple-news01.png"},
-      {"name":"Area", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Area.png"},
-      {"name":"Auto", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Auto.png"},
-      {"name":"Auto01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Auto01.png"},
-      {"name":"Available", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Available.png"},
-      {"name":"Available_Alt", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Available_Alt.png"},
-      {"name":"Azure", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Azure.png"},
-      {"name":"Baidu_Cloud", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Baidu_Cloud.png"},
-      {"name":"bilibili", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/bilibili.png"},
-      {"name":"bilibili01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/bilibili01.png"},
-      {"name":"Blackhole", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Blackhole.png"},
-      {"name":"Bot", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Bot.png"},
-      {"name":"Bypass", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Bypass.png"},
-      {"name":"Back", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Back.png"},
-      {"name":"Bahamut", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Bahamut.png"},
-      {"name":"Cat", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Cat.png"},
-      {"name":"chatgpt", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/chatgpt.png"},
-      {"name":"China", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/China.png"},
-      {"name":"China_Map", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/China_Map.png"},
-      {"name":"CMI", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/CMI.png"},
-      {"name":"CN", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/CN.png"},
-      {"name":"Direct", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Direct.png"},
-      {"name":"Direct01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Direct01.png"},
-      {"name":"discovery+", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/discovery+.png"},
-      {"name":"disney", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/disney.png"},
-      {"name":"disney+", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/disney+.png"},
-      {"name":"disney++", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/disney++.png"},
-      {"name":"disney01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/disney01.png"},
-      {"name":"disney02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/disney02.png"},
-      {"name":"duolinguo_01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/duolinguo_01.png"},
-      {"name":"emby", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/emby.png"},
-      {"name":"emby01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/emby01.png"},
-      {"name":"EU", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/EU.png"},
-      {"name":"European_Union", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/European_Union.png"},
-      {"name":"Filter", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Filter.png"},
-      {"name":"final", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/final.png"},
-      {"name":"final01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/final01.png"},
-      {"name":"Fries", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Fries.png"},
-      {"name":"facebook", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/facebook.png"},
-      {"name":"game", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/game.png"},
-      {"name":"game02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/game02.png"},
-      {"name":"global", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/global.png"},
-      {"name":"GlobalMedia", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/GlobalMedia.png"},
-      {"name":"Godetia", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Godetia.png"},
-      {"name":"Google", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Google.png"},
-      {"name":"Google_Drive", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Google_Drive.png"},
-      {"name":"google01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/google01.png"},
-      {"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/GoogleDrive.png"},
-      {"name":"google-voice", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/google-voice.png"},
-      {"name":"Guguex", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Guguex.png"},
-      {"name":"gv", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/gv.png"},
-      {"name":"google_01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/google_01.png"},
-      {"name":"hbo", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/hbo.png"},
-      {"name":"hbo-max", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/hbo-max.png"},
-      {"name":"hbo-max01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/hbo-max01.png"},
-      {"name":"Heart", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Heart.png"},
-      {"name":"Hijacking", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Hijacking.png"},
-      {"name":"HK", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/HK.png"},
-      {"name":"Hong_Kong", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Hong_Kong.png"},
-      {"name":"hulu", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/hulu.png"},
-      {"name":"HomeKit", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/HomeKit.png"},
-      {"name":"instagram", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/instagram.png"},
-      {"name":"iqiyi", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/iqiyi.png"},
-      {"name":"Japan", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Japan.png"},
-      {"name":"JP", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/JP.png"},
-      {"name":"Korea", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Korea.png"},
-      {"name":"KR", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/KR.png"},
-      {"name":"line", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/line.png"},
-      {"name":"LiTV", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/LiTV.png"},
-      {"name":"Loop", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Loop.png"},
-      {"name":"Mainland", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Mainland.png"},
-      {"name":"max", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/max.png"},
-      {"name":"media", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media.png"},
-      {"name":"media01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media01.png"},
-      {"name":"media03", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media03.png"},
-      {"name":"microsoft", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/microsoft.png"},
-      {"name":"microsoft01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/microsoft01.png"},
-      {"name":"Music_Enhance", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Music_Enhance.png"},
-      {"name":"media_03", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media_03.png"},
-      {"name":"media_04", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media_04.png"},
-      {"name":"media_05", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media_05.png"},
-      {"name":"media_06", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media_06.png"},
-      {"name":"media_07", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/media_07.png"},
-      {"name":"Medi_06", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Medi_06.png"},
-      {"name":"Netease_Music_Unlock", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Netease_Music_Unlock.png"},
-      {"name":"netflix", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/netflix.png"},
-      {"name":"netflix01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/netflix01.png"},
-      {"name":"netflix02", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/netflix02.png"},
-      {"name":"Notion", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Notion.png"},
-      {"name":"Naiko", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Naiko.png"},
-      {"name":"niconico", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/niconico.png"},
-      {"name":"Null_Nation", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Null_Nation.png"},
-      {"name":"onedrive", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/onedrive.png"},
-      {"name":"openai01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/openai01.png"},
-      {"name":"Oracle", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Oracle.png"},
-      {"name":"Outside", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Outside.png"},
-      {"name":"Panda", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Panda.png"},
-      {"name":"paypal", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/paypal.png"},
-      {"name":"paypal01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/paypal01.png"},
-      {"name":"Pig", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Pig.png"},
-      {"name":"Pornhub", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Pornhub.png"},
-      {"name":"primevideo", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/primevideo.png"},
-      {"name":"Play_Rewind_01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Play_Rewind_01.png"},
-      {"name":"Play_Forward_01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Play_Forward_01.png"},
-      {"name":"play", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/play.png"},
-      {"name":"PlayStation", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/PlayStation.png"},
-      {"name":"QQ", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/QQ.png"},
-      {"name":"reject", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/reject.png"},
-      {"name":"Reject01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Reject01.png"},
-      {"name":"rix", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/rix.png"},
-      {"name":"Rocket", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Rocket.png"},
-      {"name":"Round_Robin", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Round_Robin.png"},
-      {"name":"Server", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Server.png"},
-      {"name":"SG", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/SG.png"},
-      {"name":"Singapore", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Singapore.png"},
-      {"name":"Siri", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Siri.png"},
-      {"name":"speedtest", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/speedtest.png"},
-      {"name":"spotify", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/spotify.png"},
-      {"name":"ssrcloud", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/ssrcloud.png"},
-      {"name":"Static", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Static.png"},
-      {"name":"StreamingCN", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/StreamingCN.png"},
-      {"name":"StreamingSE", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/StreamingSE.png"},
-      {"name":"Taiwan", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Taiwan.png"},
-      {"name":"telegram001", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/telegram001.png"},
-      {"name":"telegram002", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/telegram002.png"},
-      {"name":"telegram004", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/telegram004.png"},
-      {"name":"Tencent_Cloud", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Tencent_Cloud.png"},
-      {"name":"TestFlight", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/TestFlight.png"},
-      {"name":"tieba", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/tieba.png"},
-      {"name":"tiktok", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/tiktok.png"},
-      {"name":"tiktok01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/tiktok01.png"},
-      {"name":"TW", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/TW.png"},
-      {"name":"Twitch", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Twitch.png"},
-      {"name":"twitter", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/twitter.png"},
-      {"name":"txsp", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/txsp.png"},
-      {"name":"ULB", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/ULB.png"},
-      {"name":"United_States", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/United_States.png"},
-      {"name":"Unlock", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Unlock.png"},
-      {"name":"US", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/US.png"},
-      {"name":"Vimeo", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Vimeo.png"},
-      {"name":"VirMach", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/VirMach.png"},
-      {"name":"Want_Want", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/Want_Want.png"},
-      {"name":"wechat", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/wechat.png"},
-      {"name":"weibo", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/weibo.png"},
-      {"name":"WeTV", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/WeTV.png"},
-      {"name":"whatsapp", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/whatsapp.png"},
-      {"name":"WiFi", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/WiFi.png"},
-      {"name":"xhs01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/xhs01.png"},
-      {"name":"xiaohongshu", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/xiaohongshu.png"},
-      {"name":"youtube", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/youtube.png"},
-      {"name":"youtube01", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/youtube01.png"},
-      {"name":"zijie", "url":"https://raw.githubusercontent.com/Jasonaax/Surge/main/Icon/Policy-Filter/zijie.png"},
+      {"name":"115", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/115.png"},
+      {"name":"AdBlock", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/AdBlock.png"},
+      {"name":"Adblock01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Adblock01.png"},
+      {"name":"AdBlock02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/AdBlock02.png"},
+      {"name":"AdWhite", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/AdWhite.png"},
+      {"name":"airport", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/airport.png"},
+      {"name":"Airport02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Airport02.png"},
+      {"name":"amazon", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/amazon.png"},
+      {"name":"amazon01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/amazon01.png"},
+      {"name":"amazon02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/amazon02.png"},
+      {"name":"apple", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/apple.png"},
+      {"name":"Apple_Fitness", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Apple_Fitness.png"},
+      {"name":"Apple_Mail", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Apple_Mail.png"},
+      {"name":"apple02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/apple02.png"},
+      {"name":"applenews", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/applenews.png"},
+      {"name":"apple-news01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/apple-news01.png"},
+      {"name":"Area", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Area.png"},
+      {"name":"Auto", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Auto.png"},
+      {"name":"Auto01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Auto01.png"},
+      {"name":"Available", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Available.png"},
+      {"name":"Available_Alt", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Available_Alt.png"},
+      {"name":"Azure", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Azure.png"},
+      {"name":"Baidu_Cloud", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Baidu_Cloud.png"},
+      {"name":"bilibili", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/bilibili.png"},
+      {"name":"bilibili01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/bilibili01.png"},
+      {"name":"Blackhole", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Blackhole.png"},
+      {"name":"Bot", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bot.png"},
+      {"name":"Bypass", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bypass.png"},
+      {"name":"Back", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Back.png"},
+      {"name":"Bahamut", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bahamut.png"},
+      {"name":"Cat", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cat.png"},
+      {"name":"chatgpt", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/chatgpt.png"},
+      {"name":"China", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/China.png"},
+      {"name":"China_Map", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/China_Map.png"},
+      {"name":"CMI", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/CMI.png"},
+      {"name":"CN", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/CN.png"},
+      {"name":"Direct", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Direct.png"},
+      {"name":"Direct01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Direct01.png"},
+      {"name":"discovery+", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/discovery+.png"},
+      {"name":"disney", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/disney.png"},
+      {"name":"disney+", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/disney+.png"},
+      {"name":"disney++", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/disney++.png"},
+      {"name":"disney01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/disney01.png"},
+      {"name":"disney02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/disney02.png"},
+      {"name":"duolinguo_01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/duolinguo_01.png"},
+      {"name":"emby", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/emby.png"},
+      {"name":"emby01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/emby01.png"},
+      {"name":"EU", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/EU.png"},
+      {"name":"European_Union", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/European_Union.png"},
+      {"name":"Filter", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Filter.png"},
+      {"name":"final", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/final.png"},
+      {"name":"final01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/final01.png"},
+      {"name":"Fries", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Fries.png"},
+      {"name":"facebook", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/facebook.png"},
+      {"name":"game", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/game.png"},
+      {"name":"game02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/game02.png"},
+      {"name":"global", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/global.png"},
+      {"name":"GlobalMedia", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/GlobalMedia.png"},
+      {"name":"Godetia", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Godetia.png"},
+      {"name":"Google", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google.png"},
+      {"name":"Google_Drive", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google_Drive.png"},
+      {"name":"google01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/google01.png"},
+      {"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/GoogleDrive.png"},
+      {"name":"google-voice", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/google-voice.png"},
+      {"name":"Guguex", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guguex.png"},
+      {"name":"gv", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/gv.png"},
+      {"name":"google_01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/google_01.png"},
+      {"name":"hbo", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/hbo.png"},
+      {"name":"hbo-max", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/hbo-max.png"},
+      {"name":"hbo-max01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/hbo-max01.png"},
+      {"name":"Heart", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Heart.png"},
+      {"name":"Hijacking", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hijacking.png"},
+      {"name":"HK", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/HK.png"},
+      {"name":"Hong_Kong", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hong_Kong.png"},
+      {"name":"hulu", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/hulu.png"},
+      {"name":"HomeKit", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/HomeKit.png"},
+      {"name":"instagram", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/instagram.png"},
+      {"name":"iqiyi", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/iqiyi.png"},
+      {"name":"Japan", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Japan.png"},
+      {"name":"JP", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/JP.png"},
+      {"name":"Korea", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Korea.png"},
+      {"name":"KR", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/KR.png"},
+      {"name":"line", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/line.png"},
+      {"name":"LiTV", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/LiTV.png"},
+      {"name":"Loop", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Loop.png"},
+      {"name":"Mainland", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mainland.png"},
+      {"name":"max", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/max.png"},
+      {"name":"media", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media.png"},
+      {"name":"media01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media01.png"},
+      {"name":"media03", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media03.png"},
+      {"name":"microsoft", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/microsoft.png"},
+      {"name":"microsoft01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/microsoft01.png"},
+      {"name":"Music_Enhance", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Music_Enhance.png"},
+      {"name":"media_03", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media_03.png"},
+      {"name":"media_04", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media_04.png"},
+      {"name":"media_05", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media_05.png"},
+      {"name":"media_06", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media_06.png"},
+      {"name":"media_07", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/media_07.png"},
+      {"name":"Medi_06", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Medi_06.png"},
+      {"name":"Netease_Music_Unlock", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Netease_Music_Unlock.png"},
+      {"name":"netflix", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/netflix.png"},
+      {"name":"netflix01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/netflix01.png"},
+      {"name":"netflix02", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/netflix02.png"},
+      {"name":"Notion", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Notion.png"},
+      {"name":"Naiko", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Naiko.png"},
+      {"name":"niconico", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/niconico.png"},
+      {"name":"Null_Nation", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Null_Nation.png"},
+      {"name":"onedrive", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/onedrive.png"},
+      {"name":"openai01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/openai01.png"},
+      {"name":"Oracle", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Oracle.png"},
+      {"name":"Outside", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Outside.png"},
+      {"name":"Panda", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Panda.png"},
+      {"name":"paypal", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/paypal.png"},
+      {"name":"paypal01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/paypal01.png"},
+      {"name":"Pig", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Pig.png"},
+      {"name":"Pornhub", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Pornhub.png"},
+      {"name":"primevideo", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/primevideo.png"},
+      {"name":"Play_Rewind_01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Play_Rewind_01.png"},
+      {"name":"Play_Forward_01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Play_Forward_01.png"},
+      {"name":"play", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/play.png"},
+      {"name":"PlayStation", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/PlayStation.png"},
+      {"name":"QQ", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/QQ.png"},
+      {"name":"reject", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/reject.png"},
+      {"name":"Reject01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Reject01.png"},
+      {"name":"rix", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/rix.png"},
+      {"name":"Rocket", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Rocket.png"},
+      {"name":"Round_Robin", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Round_Robin.png"},
+      {"name":"Server", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Server.png"},
+      {"name":"SG", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/SG.png"},
+      {"name":"Singapore", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Singapore.png"},
+      {"name":"Siri", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Siri.png"},
+      {"name":"speedtest", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/speedtest.png"},
+      {"name":"spotify", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/spotify.png"},
+      {"name":"ssrcloud", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/ssrcloud.png"},
+      {"name":"Static", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Static.png"},
+      {"name":"StreamingCN", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/StreamingCN.png"},
+      {"name":"StreamingSE", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/StreamingSE.png"},
+      {"name":"Taiwan", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Taiwan.png"},
+      {"name":"telegram001", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/telegram001.png"},
+      {"name":"telegram002", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/telegram002.png"},
+      {"name":"telegram004", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/telegram004.png"},
+      {"name":"Tencent_Cloud", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tencent_Cloud.png"},
+      {"name":"TestFlight", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TestFlight.png"},
+      {"name":"tieba", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/tieba.png"},
+      {"name":"tiktok", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/tiktok.png"},
+      {"name":"tiktok01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/tiktok01.png"},
+      {"name":"TW", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TW.png"},
+      {"name":"Twitch", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Twitch.png"},
+      {"name":"twitter", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/twitter.png"},
+      {"name":"txsp", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/txsp.png"},
+      {"name":"ULB", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/ULB.png"},
+      {"name":"United_States", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/United_States.png"},
+      {"name":"Unlock", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Unlock.png"},
+      {"name":"US", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/US.png"},
+      {"name":"Vimeo", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vimeo.png"},
+      {"name":"VirMach", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/VirMach.png"},
+      {"name":"Want_Want", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Want_Want.png"},
+      {"name":"wechat", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/wechat.png"},
+      {"name":"weibo", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/weibo.png"},
+      {"name":"WeTV", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/WeTV.png"},
+      {"name":"whatsapp", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/whatsapp.png"},
+      {"name":"WiFi", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/WiFi.png"},
+      {"name":"xhs01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/xhs01.png"},
+      {"name":"xiaohongshu", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/xiaohongshu.png"},
+      {"name":"youtube", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/youtube.png"},
+      {"name":"youtube01", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/youtube01.png"},
+      {"name":"zijie", "url":"https://raw.githubusercontent.com/laperlarossi/OX/main/icon/zijie.png"},
       {
             "name": "Auto_Speed",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Auto_Speed.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Auto_Speed.png"
         },
         {
             "name": "Available",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Available.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Available.png"
         },
         {
             "name": "Airport",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Airport.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Airport.png"
         },
         {
             "name": "BiliBili",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/BiliBili.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/BiliBili.png"
         },
         {
             "name": "Clubhouse",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Clubhouse.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Clubhouse.png"
         },
         {
             "name": "Final",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Final.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Final.png"
         },
         {
             "name": "KittyLink",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/KittyLink.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/KittyLink.png"
         },
         {
             "name": "Map",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Map.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Map.png"
         },
         {
             "name": "Microsoft",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Microsoft.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Microsoft.png"
         },
         {
             "name": "NetEase_Music",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/NetEase_Music.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/NetEase_Music.png"
         },
         {
             "name": "Netflix",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Netflix.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Netflix.png"
         },
         {
             "name": "Reject.orig",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Reject.orig.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Reject.orig.png"
         },
         {
             "name": "Reject",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Reject.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Reject.png"
         },
         {
             "name": "RoundRobin",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/RoundRobin.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/RoundRobin.png"
         },
         {
             "name": "SSID",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/SSID.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/SSID.png"
         },
         {
             "name": "Select",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Select.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Select.png"
         },
         {
             "name": "Speedtest",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Speedtest.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Speedtest.png"
         },
         {
             "name": "Streaming",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Streaming.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Streaming.png"
         },
         {
             "name": "StreamingSE",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/StreamingSE.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/StreamingSE.png"
         },
         {
             "name": "Steam",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Steam.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Steam.png"
         },
         {
             "name": "Tencent",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Tencent.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tencent.png"
         },
         {
             "name": "TencentVideo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/TencentVideo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TencentVideo.png"
         },
         {
             "name": "TAG",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/TAG.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TAG.png"
         },
         {
             "name": "Video",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Video.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Video.png"
         },
         {
             "name": "WeChat",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/WeChat.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/WeChat.png"
         },
         {
             "name": "YTOO",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/YTOO.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/YTOO.png"
         },
         {
             "name": "Air_Bnb",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Air_Bnb.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Air_Bnb.png"
         },
         {
             "name": "Amazon",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Amazon.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Amazon.png"
         },
         {
             "name": "Apple",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Apple.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Apple.png"
         },
         {
             "name": "Badoo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Badoo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Badoo.png"
         },
         {
             "name": "Bebo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Bebo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bebo.png"
         },
         {
             "name": "Behance",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Behance.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Behance.png"
         },
         {
             "name": "Buzznet",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Buzznet.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Buzznet.png"
         },
         {
             "name": "Classmates",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Classmates.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Classmates.png"
         },
         {
             "name": "Daily_Motion",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Daily_Motion.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Daily_Motion.png"
         },
         {
             "name": "Delicious",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Delicious.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Delicious.png"
         },
         {
             "name": "Diaspora",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Diaspora.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Diaspora.png"
         },
         {
             "name": "Dots",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Dots.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Dots.png"
         },
         {
             "name": "Dribbble",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Dribbble.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Dribbble.png"
         },
         {
             "name": "Ello",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Ello.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ello.png"
         },
         {
             "name": "Etsy",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Etsy.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Etsy.png"
         },
         {
             "name": "Facebook",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Facebook.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Facebook.png"
         },
         {
             "name": "FilmAffinity",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/FilmAffinity.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/FilmAffinity.png"
         },
         {
             "name": "Flickr",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Flickr.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Flickr.png"
         },
         {
             "name": "Foursquare",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Foursquare.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Foursquare.png"
         },
         {
             "name": "GitHub",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/GitHub.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/GitHub.png"
         },
         {
             "name": "Google_Plus",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Google_Plus.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google_Plus.png"
         },
         {
             "name": "Hi5",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Hi5.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hi5.png"
         },
         {
             "name": "Howcast",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Howcast.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Howcast.png"
         },
         {
             "name": "Instagram",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Instagram.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Instagram.png"
         },
         {
             "name": "Kickstarter",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Kickstarter.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kickstarter.png"
         },
         {
             "name": "Lastfm",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Lastfm.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Lastfm.png"
         },
         {
             "name": "Line",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Line.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Line.png"
         },
         {
             "name": "Linkedin",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Linkedin.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Linkedin.png"
         },
         {
             "name": "LiveJournal",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/LiveJournal.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/LiveJournal.png"
         },
         {
             "name": "Medium",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Medium.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Medium.png"
         },
         {
             "name": "Meetup",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Meetup.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Meetup.png"
         },
         {
             "name": "Myspace",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Myspace.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Myspace.png"
         },
         {
             "name": "NextDoor",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/NextDoor.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/NextDoor.png"
         },
         {
             "name": "Path",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Path.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Path.png"
         },
         {
             "name": "Paypal",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Paypal.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Paypal.png"
         },
         {
             "name": "Periscope",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Periscope.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Periscope.png"
         },
         {
             "name": "Pinterest",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Pinterest.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Pinterest.png"
         },
         {
             "name": "Quora",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Quora.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Quora.png"
         },
         {
             "name": "Reddit",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Reddit.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Reddit.png"
         },
         {
             "name": "RenRen",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/RenRen.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/RenRen.png"
         },
         {
             "name": "ReverbNation",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/ReverbNation.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/ReverbNation.png"
         },
         {
             "name": "Sina_Weibo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Sina_Weibo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sina_Weibo.png"
         },
         {
             "name": "Skype",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Skype.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Skype.png"
         },
         {
             "name": "Skyrock",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Skyrock.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Skyrock.png"
         },
         {
             "name": "Snapchat",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Snapchat.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Snapchat.png"
         },
         {
             "name": "Snapfish",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Snapfish.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Snapfish.png"
         },
         {
             "name": "SoundCloud",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/SoundCloud.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/SoundCloud.png"
         },
         {
             "name": "Spotify",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Spotify.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Spotify.png"
         },
         {
             "name": "StumbleUpon",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/StumbleUpon.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/StumbleUpon.png"
         },
         {
             "name": "Tagged",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Tagged.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tagged.png"
         },
         {
             "name": "Taringa",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Taringa.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Taringa.png"
         },
         {
             "name": "Telegram",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Telegram.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Telegram.png"
         },
         {
             "name": "TikTok",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TikTok.png"
         },
         {
             "name": "Tinder",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Tinder.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tinder.png"
         },
         {
             "name": "Tout",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Tout.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tout.png"
         },
         {
             "name": "TripAdvisor",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TripAdvisor.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/TripAdvisor.png"
         },
         {
             "name": "Tumblr",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Tumblr.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tumblr.png"
         },
         {
             "name": "Twitter",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Twitter.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Twitter.png"
         },
         {
             "name": "Uber",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Uber.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Uber.png"
         },
         {
             "name": "VK",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/VK.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/VK.png"
         },
         {
             "name": "Viadeo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Viadeo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Viadeo.png"
         },
         {
             "name": "Vimeo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Vimeo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vimeo.png"
         },
         {
             "name": "We_Heart_It",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/We_Heart_It.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/We_Heart_It.png"
         },
         {
             "name": "Whatsapp",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Whatsapp.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Whatsapp.png"
         },
         {
             "name": "XING",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/XING.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/XING.png"
         },
         {
             "name": "Yelp",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Yelp.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Yelp.png"
         },
         {
             "name": "YouTube",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/YouTube.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/YouTube.png"
         },
         {
             "name": "deviantART",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/deviantART.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/deviantART.png"
         },
         {
             "name": "Account",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Account.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Account.png"
         },
         {
             "name": "Admin",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Admin.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Admin.png"
         },
         {
             "name": "Adwords",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Adwords.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Adwords.png"
         },
         {
             "name": "Browser",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Browser.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Browser.png"
         },
         {
             "name": "Browser",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Business.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Business.png"
         },
         {
             "name": "Calendar",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Calendar.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Calendar.png"
         },
         {
             "name": "Docs",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Docs.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Docs.png"
         },
         {
             "name": "Drive",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Drive.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Drive.png"
         },
         {
             "name": "Forms",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Forms.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Forms.png"
         },
         {
             "name": "Gmail",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Gmail.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Gmail.png"
         },
         {
             "name": "Google",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Google.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google.png"
         },
         {
             "name": "Google_Maps",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Google_Maps.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google_Maps.png"
         },
         {
             "name": "Google_Plus",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Google_Plus.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Google_Plus.png"
         },
         {
             "name": "Hangouts",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Hangouts.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hangouts.png"
         },
         {
             "name": "News",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/News.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/News.png"
         },
         {
             "name": "Photos",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Photos.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Photos.png"
         },
         {
             "name": "PlayStore",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/PlayStore.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/PlayStore.png"
         },
         {
             "name": "Sheets",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Sheets.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sheets.png"
         },
         {
             "name": "Slides",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Slides.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Slides.png"
         },
         {
             "name": "Translate",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Translate.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Translate.png"
         },
         {
             "name": "Vault",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Vault.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vault.png"
         },
         {
             "name": "Voice",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/Voice.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Voice.png"
         },
         {
             "name": "YouTube",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Google_Suite/YouTube.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/YouTube.png"
         },
         {
             "name": "Abkhazia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Abkhazia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Abkhazia.png"
         },
         {
             "name": "Afghanistan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Afghanistan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Afghanistan.png"
         },
         {
             "name": "Aland_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Aland_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Aland_Islands.png"
         },
         {
             "name": "Albania",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Albania.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Albania.png"
         },
         {
             "name": "Algeria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Algeria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Algeria.png"
         },
         {
             "name": "American_Samoa",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/American_Samoa.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/American_Samoa.png"
         },
         {
             "name": "Andorra",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Andorra.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Andorra.png"
         },
         {
             "name": "Angola",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Angola.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Angola.png"
         },
         {
             "name": "Anguilla",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Anguilla.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Anguilla.png"
         },
         {
             "name": "Antigua_And_Barbuda",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Antigua_And_Barbuda.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Antigua_And_Barbuda.png"
         },
         {
             "name": "Argentina",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Argentina.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Argentina.png"
         },
         {
             "name": "Armenia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Armenia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Armenia.png"
         },
         {
             "name": "Aruba",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Aruba.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Aruba.png"
         },
         {
             "name": "Australia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Australia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Australia.png"
         },
         {
             "name": "Austria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Austria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Austria.png"
         },
         {
             "name": "Azerbaijan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Azerbaijan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Azerbaijan.png"
         },
         {
             "name": "Azores_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Azores_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Azores_Islands.png"
         },
         {
             "name": "Bahamas",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bahamas.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bahamas.png"
         },
         {
             "name": "Bahrain",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bahrain.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bahrain.png"
         },
         {
             "name": "Balearic_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Balearic_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Balearic_Islands.png"
         },
         {
             "name": "Bangladesh",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bangladesh.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bangladesh.png"
         },
         {
             "name": "Barbados",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Barbados.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Barbados.png"
         },
         {
             "name": "Basque_Country",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Basque_Country.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Basque_Country.png"
         },
         {
             "name": "Belarus",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Belarus.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Belarus.png"
         },
         {
             "name": "Belgium",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Belgium.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Belgium.png"
         },
         {
             "name": "Belize",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Belize.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Belize.png"
         },
         {
             "name": "BeninBenin",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Benin.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Benin.png"
         },
         {
             "name": "Bermuda",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bermuda.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bermuda.png"
         },
         {
             "name": "Bhutan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bhutan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bhutan.png"
         },
         {
             "name": "Bolivia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bolivia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bolivia.png"
         },
         {
             "name": "Bonaire",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bonaire.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bonaire.png"
         },
         {
             "name": "Bosnia_And_Herzegovina",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bosnia_And_Herzegovina.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bosnia_And_Herzegovina.png"
         },
         {
             "name": "Botswana",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Botswana.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Botswana.png"
         },
         {
             "name": "Brazil",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Brazil.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Brazil.png"
         },
         {
             "name": "British_Columbia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/British_Columbia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/British_Columbia.png"
         },
         {
             "name": "British_Indian_Ocean_Territory",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/British_Indian_Ocean_Territory.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/British_Indian_Ocean_Territory.png"
         },
         {
             "name": "British_Virgin_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/British_Virgin_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/British_Virgin_Islands.png"
         },
         {
             "name": "Brunei",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Brunei.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Brunei.png"
         },
         {
             "name": "Bulgaria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Bulgaria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Bulgaria.png"
         },
         {
             "name": "Burkina_Faso",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Burkina_Faso.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Burkina_Faso.png"
         },
         {
             "name": "Burundi",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Burundi.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Burundi.png"
         },
         {
             "name": "Cambodia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cambodia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cambodia.png"
         },
         {
             "name": "Cameroon",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cameroon.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cameroon.png"
         },
         {
             "name": "Canada",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Canada.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Canada.png"
         },
         {
             "name": "Canary_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Canary_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Canary_Islands.png"
         },
         {
             "name": "Cape_Verde",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cape_Verde.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cape_Verde.png"
         },
         {
             "name": "Cayman_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cayman_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cayman_Islands.png"
         },
         {
             "name": "Central_African_Republic",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Central_African_Republic.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Central_African_Republic.png"
         },
         {
             "name": "Ceuta",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ceuta.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ceuta.png"
         },
         {
             "name": "Chad",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Chad.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Chad.png"
         },
         {
             "name": "Chile",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Chile.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Chile.png"
         },
         {
             "name": "China",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/China.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/China.png"
         },
         {
             "name": "Christmas_Island",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Christmas_Island.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Christmas_Island.png"
         },
         {
             "name": "Cocos_Island",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cocos_Island.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cocos_Island.png"
         },
         {
             "name": "Colombia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Colombia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Colombia.png"
         },
         {
             "name": "Comoros",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Comoros.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Comoros.png"
         },
         {
             "name": "Cook_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cook_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cook_Islands.png"
         },
         {
             "name": "Corsica",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Corsica.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Corsica.png"
         },
         {
             "name": "Costa_Rica",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Costa_Rica.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Costa_Rica.png"
         },
         {
             "name": "Croatia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Croatia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Croatia.png"
         },
         {
             "name": "Cuba",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cuba.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cuba.png"
         },
         {
             "name": "Curacao",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Curacao.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Curacao.png"
         },
         {
             "name": "Cyprus",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Cyprus.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Cyprus.png"
         },
         {
             "name": "Czech_Republic",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Czech_Republic.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Czech_Republic.png"
         },
         {
             "name": "Democratic_Republic_Of_Congo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Democratic_Republic_Of_Congo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Democratic_Republic_Of_Congo.png"
         },
         {
             "name": "Denmark",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Denmark.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Denmark.png"
         },
         {
             "name": "Djibouti",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Djibouti.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Djibouti.png"
         },
         {
             "name": "Dominica",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Dominica.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Dominica.png"
         },
         {
             "name": "Dominican_Republic",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Dominican_Republic.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Dominican_Republic.png"
         },
         {
             "name": "East_Timor",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/East_Timor.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/East_Timor.png"
         },
         {
             "name": "Ecuador",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ecuador.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ecuador.png"
         },
         {
             "name": "Egypt",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Egypt.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Egypt.png"
         },
         {
             "name": "El_Salvador",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/El_Salvador.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/El_Salvador.png"
         },
         {
             "name": "England",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/England.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/England.png"
         },
         {
             "name": "Equatorial_Guinea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Equatorial_Guinea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Equatorial_Guinea.png"
         },
         {
             "name": "Eritrea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Eritrea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Eritrea.png"
         },
         {
             "name": "Estonia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Estonia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Estonia.png"
         },
         {
             "name": "Ethiopia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ethiopia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ethiopia.png"
         },
         {
             "name": "European_Union",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/European_Union.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/European_Union.png"
         },
         {
             "name": "Falkland_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Falkland_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Falkland_Islands.png"
         },
         {
             "name": "Faroe_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Faroe_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Faroe_Islands.png"
         },
         {
             "name": "Fiji",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Fiji.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Fiji.png"
         },
         {
             "name": "Finland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Finland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Finland.png"
         },
         {
             "name": "France",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/France.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/France.png"
         },
         {
             "name": "French_Polynesia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/French_Polynesia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/French_Polynesia.png"
         },
         {
             "name": "Gabon",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Gabon.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Gabon.png"
         },
         {
             "name": "Galapagos_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Galapagos_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Galapagos_Islands.png"
         },
         {
             "name": "Gambia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Gambia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Gambia.png"
         },
         {
             "name": "Georgia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Georgia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Georgia.png"
         },
         {
             "name": "Germany",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Germany.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Germany.png"
         },
         {
             "name": "Ghana",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ghana.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ghana.png"
         },
         {
             "name": "Gibraltar",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Gibraltar.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Gibraltar.png"
         },
         {
             "name": "Greece",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Greece.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Greece.png"
         },
         {
             "name": "Greenland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Greenland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Greenland.png"
         },
         {
             "name": "Grenada",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Grenada.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Grenada.png"
         },
         {
             "name": "Guam",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Guam.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guam.png"
         },
         {
             "name": "Guatemala",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Guatemala.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guatemala.png"
         },
         {
             "name": "Guinea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Guinea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guinea.png"
         },
         {
             "name": "Guinea_Bissau",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Guinea_Bissau.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guinea_Bissau.png"
         },
         {
             "name": "Guyana",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Guyana.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Guyana.png"
         },
         {
             "name": "Haiti",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Haiti.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Haiti.png"
         },
         {
             "name": "Hawaii",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Hawaii.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hawaii.png"
         },
         {
             "name": "Honduras",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Honduras.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Honduras.png"
         },
         {
             "name": "Hong_Kong",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Hong_Kong.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hong_Kong.png"
         },
         {
             "name": "Hungary",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Hungary.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Hungary.png"
         },
         {
             "name": "Iceland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Iceland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Iceland.png"
         },
         {
             "name": "India",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/India.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/India.png"
         },
         {
             "name": "Indonesia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Indonesia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Indonesia.png"
         },
         {
             "name": "Iran",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Iran.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Iran.png"
         },
         {
             "name": "Iraq",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Iraq.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Iraq.png"
         },
         {
             "name": "Ireland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ireland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ireland.png"
         },
         {
             "name": "Isle_Of_Man",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Isle_Of_Man.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Isle_Of_Man.png"
         },
         {
             "name": "Israel",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Israel.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Israel.png"
         },
         {
             "name": "Italy",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Italy.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Italy.png"
         },
         {
             "name": "Ivory_Coast",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ivory_Coast.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ivory_Coast.png"
         },
         {
             "name": "Jamaica",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Jamaica.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Jamaica.png"
         },
         {
             "name": "Japan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Japan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Japan.png"
         },
         {
             "name": "Jersey",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Jersey.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Jersey.png"
         },
         {
             "name": "Jordan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Jordan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Jordan.png"
         },
         {
             "name": "Kazakhstan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kazakhstan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kazakhstan.png"
         },
         {
             "name": "Kenya",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kenya.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kenya.png"
         },
         {
             "name": "Kiribati",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kiribati.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kiribati.png"
         },
         {
             "name": "Kosovo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kosovo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kosovo.png"
         },
         {
             "name": "Kuwait",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kuwait.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kuwait.png"
         },
         {
             "name": "Kyrgyzstan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Kyrgyzstan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Kyrgyzstan.png"
         },
         {
             "name": "Laos",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Laos.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Laos.png"
         },
         {
             "name": "Latvia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Latvia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Latvia.png"
         },
         {
             "name": "Lebanon",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Lebanon.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Lebanon.png"
         },
         {
             "name": "Lesotho",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Lesotho.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Lesotho.png"
         },
         {
             "name": "Liberia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Liberia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Liberia.png"
         },
         {
             "name": "Libya",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Libya.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Libya.png"
         },
         {
             "name": "Liechtenstein",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Liechtenstein.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Liechtenstein.png"
         },
         {
             "name": "Lithuania",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Lithuania.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Lithuania.png"
         },
         {
             "name": "Luxembourg",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Luxembourg.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Luxembourg.png"
         },
         {
             "name": "Macao",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Macao.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Macao.png"
         },
         {
             "name": "Madagascar",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Madagascar.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Madagascar.png"
         },
         {
             "name": "Madeira",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Madeira.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Madeira.png"
         },
         {
             "name": "Malasya",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Malasya.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Malasya.png"
         },
         {
             "name": "Malawi",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Malawi.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Malawi.png"
         },
         {
             "name": "Maldives",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Maldives.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Maldives.png"
         },
         {
             "name": "Mali",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mali.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mali.png"
         },
         {
             "name": "Malta",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Malta.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Malta.png"
         },
         {
             "name": "Marshall_Island",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Marshall_Island.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Marshall_Island.png"
         },
         {
             "name": "Martinique",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Martinique.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Martinique.png"
         },
         {
             "name": "Mauritania",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mauritania.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mauritania.png"
         },
         {
             "name": "Mauritius",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mauritius.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mauritius.png"
         },
         {
             "name": "Melilla",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Melilla.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Melilla.png"
         },
         {
             "name": "Mexico",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mexico.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mexico.png"
         },
         {
             "name": "Micronesia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Micronesia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Micronesia.png"
         },
         {
             "name": "Moldova",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Moldova.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Moldova.png"
         },
         {
             "name": "Monaco",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Monaco.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Monaco.png"
         },
         {
             "name": "Mongolia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mongolia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mongolia.png"
         },
         {
             "name": "Montenegro",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Montenegro.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Montenegro.png"
         },
         {
             "name": "Montserrat",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Montserrat.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Montserrat.png"
         },
         {
             "name": "Morocco",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Morocco.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Morocco.png"
         },
         {
             "name": "Mozambique",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Mozambique.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Mozambique.png"
         },
         {
             "name": "Myanmar",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Myanmar.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Myanmar.png"
         },
         {
             "name": "Nagorno_Karabakh_Republic",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Nagorno_Karabakh_Republic.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Nagorno_Karabakh_Republic.png"
         },
         {
             "name": "Namibia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Namibia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Namibia.png"
         },
         {
             "name": "Nauru",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Nauru.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Nauru.png"
         },
         {
             "name": "Nepal",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Nepal.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Nepal.png"
         },
         {
             "name": "Netherlands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Netherlands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Netherlands.png"
         },
         {
             "name": "New_Zealand",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/New_Zealand.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/New_Zealand.png"
         },
         {
             "name": "Nicaragua",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Nicaragua.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Nicaragua.png"
         },
         {
             "name": "Niger",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Niger.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Niger.png"
         },
         {
             "name": "Nigeria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Nigeria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Nigeria.png"
         },
         {
             "name": "Niue",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Niue.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Niue.png"
         },
         {
             "name": "Norfolk_Island",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Norfolk_Island.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Norfolk_Island.png"
         },
         {
             "name": "North_Korea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/North_Korea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/North_Korea.png"
         },
         {
             "name": "Northern_Cyprus",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Northern_Cyprus.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Northern_Cyprus.png"
         },
         {
             "name": "Northern_Marianas_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Northern_Marianas_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Northern_Marianas_Islands.png"
         },
         {
             "name": "Norway",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Norway.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Norway.png"
         },
         {
             "name": "Oman",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Oman.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Oman.png"
         },
         {
             "name": "Ossetia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ossetia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ossetia.png"
         },
         {
             "name": "Otan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Otan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Otan.png"
         },
         {
             "name": "Pakistan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Pakistan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Pakistan.png"
         },
         {
             "name": "Palau",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Palau.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Palau.png"
         },
         {
             "name": "Palestine",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Palestine.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Palestine.png"
         },
         {
             "name": "Panama",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Panama.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Panama.png"
         },
         {
             "name": "Papua_New_Guinea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Papua_New_Guinea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Papua_New_Guinea.png"
         },
         {
             "name": "Paraguay",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Paraguay.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Paraguay.png"
         },
         {
             "name": "Peru",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Peru.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Peru.png"
         },
         {
             "name": "Philippines",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Philippines.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Philippines.png"
         },
         {
             "name": "Pitcairn_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Pitcairn_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Pitcairn_Islands.png"
         },
         {
             "name": "Portugal",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Portugal.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Portugal.png"
         },
         {
             "name": "Puerto_Rico",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Puerto_Rico.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Puerto_Rico.png"
         },
         {
             "name": "Qatar",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Qatar.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Qatar.png"
         },
         {
             "name": "Rapa_Nui",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Rapa_Nui.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Rapa_Nui.png"
         },
         {
             "name": "Republic_Of_Macedonia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Republic_Of_Macedonia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Republic_Of_Macedonia.png"
         },
         {
             "name": "Republic_Of_Poland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Republic_Of_Poland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Republic_Of_Poland.png"
         },
         {
             "name": "Republic_Of_The_Congo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Republic_Of_The_Congo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Republic_Of_The_Congo.png"
         },
         {
             "name": "Romania",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Romania.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Romania.png"
         },
         {
             "name": "Russia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Russia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Russia.png"
         },
         {
             "name": "Rwanda",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Rwanda.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Rwanda.png"
         },
         {
             "name": "Saba_Island",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Saba_Island.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Saba_Island.png"
         },
         {
             "name": "Sahrawi_Arab_Democratic_Republic",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sahrawi_Arab_Democratic_Republic.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sahrawi_Arab_Democratic_Republic.png"
         },
         {
             "name": "Saint_Kitts_And_Nevis",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Saint_Kitts_And_Nevis.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Saint_Kitts_And_Nevis.png"
         },
         {
             "name": "Samoa",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Samoa.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Samoa.png"
         },
         {
             "name": "San_Marino",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/San_Marino.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/San_Marino.png"
         },
         {
             "name": "Sao_Tome_And_Prince",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sao_Tome_And_Prince.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sao_Tome_And_Prince.png"
         },
         {
             "name": "Sardinia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sardinia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sardinia.png"
         },
         {
             "name": "Saudi_Arabia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Saudi_Arabia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Saudi_Arabia.png"
         },
         {
             "name": "Scotland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Scotland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Scotland.png"
         },
         {
             "name": "Senegal",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Senegal.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Senegal.png"
         },
         {
             "name": "Serbia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Serbia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Serbia.png"
         },
         {
             "name": "Seychelles",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Seychelles.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Seychelles.png"
         },
         {
             "name": "Sicily",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sicily.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sicily.png"
         },
         {
             "name": "Sierra_Leone",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sierra_Leone.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sierra_Leone.png"
         },
         {
             "name": "Singapore",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Singapore.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Singapore.png"
         },
         {
             "name": "Sint_Eustatius",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sint_Eustatius.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sint_Eustatius.png"
         },
         {
             "name": "Sint_Maarten",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sint_Maarten.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sint_Maarten.png"
         },
         {
             "name": "Slovakia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Slovakia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Slovakia.png"
         },
         {
             "name": "Slovenia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Slovenia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Slovenia.png"
         },
         {
             "name": "Solomon_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Solomon_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Solomon_Islands.png"
         },
         {
             "name": "Somalia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Somalia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Somalia.png"
         },
         {
             "name": "Somaliland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Somaliland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Somaliland.png"
         },
         {
             "name": "South_Africa",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/South_Africa.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/South_Africa.png"
         },
         {
             "name": "South_Korea",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/South_Korea.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/South_Korea.png"
         },
         {
             "name": "South_Sudan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/South_Sudan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/South_Sudan.png"
         },
         {
             "name": "Spain",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Spain.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Spain.png"
         },
         {
             "name": "Sri_Lanka",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sri_Lanka.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sri_Lanka.png"
         },
         {
             "name": "St_Barts",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/St_Barts.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/St_Barts.png"
         },
         {
             "name": "St_Lucia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/St_Lucia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/St_Lucia.png"
         },
         {
             "name": "St_Vincent_And_The_Grenadines",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/St_Vincent_And_The_Grenadines.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/St_Vincent_And_The_Grenadines.png"
         },
         {
             "name": "Sudan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sudan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sudan.png"
         },
         {
             "name": "Suriname",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Suriname.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Suriname.png"
         },
         {
             "name": "Swaziland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Swaziland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Swaziland.png"
         },
         {
             "name": "Sweden",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Sweden.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Sweden.png"
         },
         {
             "name": "Switzerland",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Switzerland.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Switzerland.png"
         },
         {
             "name": "Syria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Syria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Syria.png"
         },
         {
             "name": "Taiwan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Taiwan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Taiwan.png"
         },
         {
             "name": "Tajikistan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tajikistan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tajikistan.png"
         },
         {
             "name": "Tanzania",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tanzania.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tanzania.png"
         },
         {
             "name": "Thailand",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Thailand.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Thailand.png"
         },
         {
             "name": "Tibet",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tibet.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tibet.png"
         },
         {
             "name": "Togo",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Togo.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Togo.png"
         },
         {
             "name": "Tokelau",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tokelau.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tokelau.png"
         },
         {
             "name": "Tonga",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tonga.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tonga.png"
         },
         {
             "name": "Transnistria",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Transnistria.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Transnistria.png"
         },
         {
             "name": "Trinidad_And_Tobago",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Trinidad_And_Tobago.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Trinidad_And_Tobago.png"
         },
         {
             "name": "Tunisia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tunisia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tunisia.png"
         },
         {
             "name": "Turkey",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Turkey.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Turkey.png"
         },
         {
             "name": "Turkmenistan",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Turkmenistan.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Turkmenistan.png"
         },
         {
             "name": "Turks_And_Caicos",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Turks_And_Caicos.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Turks_And_Caicos.png"
         },
         {
             "name": "Tuvalu",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Tuvalu.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Tuvalu.png"
         },
         {
             "name": "Uganda",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Uganda.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Uganda.png"
         },
         {
             "name": "Ukraine",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Ukraine.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Ukraine.png"
         },
         {
             "name": "United_Arab_Emirates",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/United_Arab_Emirates.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/United_Arab_Emirates.png"
         },
         {
             "name": "United_Kingdom",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/United_Kingdom.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/United_Kingdom.png"
         },
         {
             "name": "United_Nations",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/United_Nations.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/United_Nations.png"
         },
         {
             "name": "United_States",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/United_States.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/United_States.png"
         },
         {
             "name": "Uruguay",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Uruguay.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Uruguay.png"
         },
         {
             "name": "Uzbekistn",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Uzbekistn.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Uzbekistn.png"
         },
         {
             "name": "Vanuatu",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Vanuatu.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vanuatu.png"
         },
         {
             "name": "Vatican_City",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Vatican_City.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vatican_City.png"
         },
         {
             "name": "Venezuela",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Venezuela.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Venezuela.png"
         },
         {
             "name": "Vietnam",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Vietnam.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Vietnam.png"
         },
         {
             "name": "Virgin_Islands",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Virgin_Islands.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Virgin_Islands.png"
         },
         {
             "name": "Wales",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Wales.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Wales.png"
         },
         {
             "name": "Yemen",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Yemen.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Yemen.png"
         },
         {
             "name": "Zambia",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Zambia.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Zambia.png"
         },
         {
             "name": "Zimbabwe",
-            "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/Zimbabwe.png"
+            "url": "https://raw.githubusercontent.com/laperlarossi/OX/main/icon/Zimbabwe.png"
         }
 
 
