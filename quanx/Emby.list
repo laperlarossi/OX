@@ -2,8 +2,11 @@
 # UPDATE: 2020-12-11
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
-DOMAIN-SUFFIX,stream1.misakaf.org,Emby
-DOMAIN-SUFFIX,stream2.misakaf.org,Emby
-DOMAIN-SUFFIX,stream3.misakaf.org,Emby
-DOMAIN-SUFFIX,emby.misakaf.org,Emby
-DOMAIN-SUFFIX,789.123456.al,Emby
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,aca.best
