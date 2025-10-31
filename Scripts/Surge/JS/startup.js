@@ -129,6 +129,7 @@ const $ = MagicJS(scriptName, "INFO");
           $.logger.error(`京东开屏去广告出现异常：${err}`);
         }
         break;
+
       default:
         $.logger.warning(`触发意外的请求处理，请确认脚本或复写配置正常。URL:\n${$.request.url}`);
         break;
