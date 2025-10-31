@@ -129,57 +129,6 @@ const $ = MagicJS(scriptName, "INFO");
           $.logger.error(`京东开屏去广告出现异常：${err}`);
         }
         break;
-      // 联享家
-      case /^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview.fcg/.test($.request.url):
-        try {
-          let obj = JSON.parse($.response.body);
-          obj.seq = "0";
-          obj.reqinterval = 0;
-          delete obj["last_ads"];
-          delete obj.data;
-          response = { body: JSON.stringify(obj) };
-        } catch (err) {
-          $.logger.error(`联享家开屏去广告出现异常：${err}`);
-        }
-        break;
-      // 多点
-      case /^https?:\/\/cmsapi\.dmall\.com\/app\/home\/homepageStartUpPic/.test($.request.url):
-        try {
-          let obj = JSON.parse($.response.body);
-          for (let i = 0; i < obj["data"]["welcomePage"].length; i++) {
-            obj["data"]["welcomePage"][i]["onlineTime"] = 1915027200000;
-            obj["data"]["welcomePage"][i]["offlineTime"] = 1924272000000;
-          }
-          response = { body: JSON.stringify(obj) };
-        } catch (err) {
-          $.logger.error(`多点开屏广告处理出现异常：${err}`);
-        }
-        break;
-      // 轻牛健康
-      case /^https?:\/\/gw\.yolanda\.hk\/api\/servlets\?endpoint=banners\/show_launch_banner/.test($.request.url):
-        try {
-            let obj = {
-              "code": "200",
-              "msg": "ok",
-              "data": {
-                "present_flag": 1,
-                "banner": {
-                  "banner_id": "1861064161258799417",
-                  "image": "http://qnplus-banner.glb.qnniu.com/banner_1636700135",
-                  "image_type": 1,
-                  "jump_link": "https://app-h5.yolanda.hk/redirect_center.html?type=fascia_gun",
-                  "jump_type": 1,
-                  "duration": 5,
-                  "frequency": 1,
-                  "updated_at": 1638157314
-                }
-              }
-            }
-            response = { body: JSON.stringify(obj) };
-        } catch (err) {
-          $.logger.error(`轻牛健康开屏广告处理出现异常：${err}`);
-        }
-        break;
       default:
         $.logger.warning(`触发意外的请求处理，请确认脚本或复写配置正常。URL:\n${$.request.url}`);
         break;
