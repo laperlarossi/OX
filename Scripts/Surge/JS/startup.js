@@ -37,42 +37,6 @@ const $ = MagicJS(scriptName, "INFO");
           $.logger.error(`BiliBili开屏去广告出现异常：${err}`);
         }
         break;
-      // Fa米家
-      case /^https?:\/\/fmapp\.chinafamilymart\.com\.cn\/api\/app\/market\/start\/ad/.test($.request.url):
-        try {
-          let obj = JSON.parse($.response.body);
-          if (obj.code === "200") {
-            obj.data.relayDisplayUrl = "";
-          }
-          obj.data = {};
-          response = { body: JSON.stringify(obj) };
-        } catch (err) {
-          $.logger.error(`Fa米家开屏去广告出现异常：${err}`);
-        }
-      // 嘀嗒出行
-      case /^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/cx\/startup\?/.test($.request.url):
-        try {
-          let obj = JSON.parse($.response.body);
-          if (obj.hasOwnProperty("startupPages") === true) {
-            obj.show_time = 1;
-            obj.full_screen = 0;
-            let startupPages = [];
-            obj.startupPages.forEach((element) => {
-              element["width"] = 1;
-              element["height"] = 1;
-              element["page_url"] = "#";
-              element["create_time"] = "20990101000000";
-              element["start_time"] = "20990101000000";
-              element["end_time"] = "20990101000000";
-              startupPages.push(element);
-            });
-            obj.startupPages = startupPages;
-            response = { body: JSON.stringify(obj) };
-          }
-        } catch (err) {
-          $.logger.error(`嘀嗒出行开屏去广告出现异常：${err}`);
-        }
-        break;
       // 美团外卖
       case /^https?:\/\/wmapi\.meituan\.com\/api\/v\d+\/loadInfo?/.test($.request.url):
         try {
