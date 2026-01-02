@@ -1,0 +1,10 @@
+#!name=局域网唤醒 (WOL)
+#!desc=在 Surge 面板添加一个按钮，点击即可唤醒局域网内的设备。请在参数(argument)中填写 MAC 地址。
+#!category=工具
+
+[Panel]
+WOL = title="唤醒设备", content="点击发送 WOL 魔术包", style=info, icon=desktopcomputer, script-name=wol
+
+[Script]
+# 注意：请将 argument 后的 MAC 地址改为你电脑的真实地址
+wol = type=generic, script-path=https://raw.githubusercontent.com/script-backup/Surge/main/wol.js, argument=00:11:22:33:44:55
