@@ -54,3 +54,5 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,siri
+
+IP-CIDR,34.8.0.0/16,no-resolve
